@@ -59,14 +59,12 @@ It includes variables such as:
 _Add your own images after uploading them into an `images/` folder_
 
 ### Dataset Preview  
-![Dataset Preview](images/dataset_head.png)
+<img width="1644" height="686" alt="Screenshot 2025-12-03 131043" src="https://github.com/user-attachments/assets/516f6e34-7e8d-425e-a91b-8a42ecc1e0b5" />
+
+
 
 ### Summary Table  
-![Summary Table](images/summary_table.png)
-
-### Duration Plot  
-![Movie Duration Plot](images/plot1.png)
-
+<img width="1651" height="969" alt="Screenshot 2025-12-03 131137" src="https://github.com/user-attachments/assets/581a39aa-279c-4c44-ac88-0efca10da7b2" />
 ---
 
 ## 📈 Findings (Summary)
